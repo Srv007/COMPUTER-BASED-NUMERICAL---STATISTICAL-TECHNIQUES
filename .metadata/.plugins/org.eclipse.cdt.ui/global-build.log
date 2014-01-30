@@ -1,0 +1,17 @@
+
+**** Build of configuration Debug for project Program to Implement the Method of Regula Falsi (False Position) ****
+
+make all 
+Building file: ../src/Program to Implement the Method of Regula Falsi (False Position).c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Program to Implement the Method of Regula Falsi (False Position).d" -MT"src/Program\ to\ Implement\ the\ Method\ of\ Regula\ Falsi\ (False\ Position).d" -o "src/Program to Implement the Method of Regula Falsi (False Position).o" "../src/Program to Implement the Method of Regula Falsi (False Position).c"
+Finished building: ../src/Program to Implement the Method of Regula Falsi (False Position).c
+ 
+Building target: Program to Implement the Method of Regula Falsi 
+Invoking: MacOS X C Linker
+gcc  -o "Program to Implement the Method of Regula Falsi (False Position)"  ./src/Program\ to\ Implement\ the\ Method\ of\ Regula\ Falsi\ (False\ Position).o   
+/bin/sh: -c: line 0: syntax error near unexpected token `('
+/bin/sh: -c: line 0: `gcc  -o "Program to Implement the Method of Regula Falsi (False Position)"  ./src/Program\ to\ Implement\ the\ Method\ of\ Regula\ Falsi\ (False\ Position).o   '
+make: *** [Program to Implement the Method of Regula Falsi (False Position)] Error 2
+
+**** Build Finished ****

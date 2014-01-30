@@ -1,0 +1,16 @@
+!SESSION 2014-01-31 00:50:10.142 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/Saurabh/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/Saurabh/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-31 00:59:08.691
+!MESSAGE Indexed 'Program to Implement the Method of Regula Falsi (False Position)' (1 sources, 94 headers) in 1.88 sec: 1,884 declarations; 1,923 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-31 00:59:10.043
+!MESSAGE Indexed 'Successive Approximation Method' (1 sources, 97 headers) in 0.69 sec: 2,079 declarations; 2,024 references; 3 unresolved inclusions; 6 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-31 00:59:11.312
+!MESSAGE Indexed 'saurabh' (1 sources, 100 headers) in 0.69 sec: 2,274 declarations; 2,211 references; 3 unresolved inclusions; 6 syntax errors; 0 unresolved names (0.00%)
